@@ -1,0 +1,120 @@
+
+
+body{
+    background-image:radial-gradient(pink, #eece9e)
+}
+
+ .fondo{
+   width: 100% ; 
+   top: 0%
+}
+.titulo{
+    color: #e6859f;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(0%, -140%);
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 900%;
+    margin-top: 0px;
+    margin-bottom: 0%;
+}
+
+.autor{
+    color: #fff4c0;
+    position: absolute;
+    top: 7%;
+    left: 50%;
+    transform: translate(85%, 500%);
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 300%;
+    margin-top: 0px;
+    margin-bottom: 0%;
+}
+a{
+    color: #84736f;
+    font-family: 'Philosopher', sans-serif;
+    text-decoration:none;
+    padding: 30px;
+}
+
+.menu{
+    color:#84736f;
+    top: 50%;
+    left: 50%;
+    border: 20%;
+    display: flex;
+    justify-content: center;
+    font-size: 170%;
+    background-image: linear-gradient(#eece9e, pink)
+}
+
+.axolote1 {
+    width: 30%;
+    margin: 0px 0px 0px;
+    transform: translate(200%, -115%);
+    display: flex;
+    padding: 20px ;
+}
+
+.axolote2 {
+    position: absolute;
+    width: 100px;
+    display: flex;
+    padding: 0px;
+}
+
+p{
+    color: #d76483;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-size: 20px
+}
+
+
+h3{
+    color: #d76483;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+li{
+    color: #84736f;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-size: 20px;
+}
+
+.textomitologia{
+    color: #84736f;
+    margin-top: 0%;
+}
+
+.textoanatomia {
+    color: #84736f;
+    margin: 0%;
+}
+
+.textoconservacion{
+    color: #84736f;
+    margin-top: 0%;
+}
+
+.leermas{
+    font-size: 100%;
+    color: #d76483;
+    text-decoration:dotted;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+
+h1{
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    color: #d76483;
+}
+
+/*
+selector {
+    propiedad : valor*/
+
+    flex-direction:colum
