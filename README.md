@@ -12,6 +12,7 @@ Conocer las propiedades básicas de CSS3 y etiquetas básicas de HTML5, principa
 
 ## 🟢RESULTADO
 Visualiza el proyecto final 🔸[AQUÍ](https://axolotitos-byvalerydom.netlify.app/)🔸
+
 ![Captura de Pantalla 2023-07-19 a la(s) 17 49 31](https://github.com/valerydom/Axolotitos/assets/139601134/ff9ee6c3-76f4-465c-972e-fa4ff644cf98)
 
 ![Captura de Pantalla 2023-07-19 a la(s) 17 49 51](https://github.com/valerydom/Axolotitos/assets/139601134/4cebbab3-3108-415d-b818-6571410256d3)
